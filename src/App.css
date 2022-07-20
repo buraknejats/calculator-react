@@ -43,7 +43,7 @@ button {
 }
 .show-input {
   grid-area: total;
-  background-color: red;
+  background-color: red;;
 }
 .modifiers {
   grid-area: modif;
